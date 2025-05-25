@@ -1,4 +1,4 @@
-##Hi I'm Nikita <br>
+## Hi I'm Nikita <br>
 Full-stack developer for 2 years <br>
 I create deckstop/mobile websites <br>
 
